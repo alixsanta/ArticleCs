@@ -1,0 +1,5 @@
+/home/alixsanta/ArticleCs/obj/Debug/net6.0/ArticleCs.csproj.AssemblyReference.cache
+/home/alixsanta/ArticleCs/obj/Debug/net6.0/ArticleCs.GeneratedMSBuildEditorConfig.editorconfig
+/home/alixsanta/ArticleCs/obj/Debug/net6.0/ArticleCs.AssemblyInfoInputs.cache
+/home/alixsanta/ArticleCs/obj/Debug/net6.0/ArticleCs.AssemblyInfo.cs
+/home/alixsanta/ArticleCs/obj/Debug/net6.0/ArticleCs.csproj.CoreCompileInputs.cache
